@@ -9,7 +9,7 @@ Follow these steps to set up the environment for running the project:
 
 ### 1.1 Clone the Repository
 Start by cloning the repository to your local machine:
-git clone <repository-url>
+git clone <https://github.com/gerkz/MLProject.git>
 
 ### 1.2 Navigate to the Project Directory
 cd <project-directory>
@@ -24,7 +24,7 @@ python -m venv venv (win)
 ### 1.4 Install Dependencies
 pip install -r requirements.txt
 
-# Data Preprocessing for Signature Recognition
+# 2. Data Preprocessing for Signature Recognition
 
 ## Overview of Data Preprocessing
 
@@ -121,7 +121,7 @@ To gain a better understanding of the **overall trends and patterns** across the
   
 While this analysis does not directly influence feature selection for model training, it provides valuable insights into how different features help distinguish genuine signatures from forgeries.
 
-## Experiment Design Plan
+## 3. Experiment Design Plan
 
 The experiment evaluates the effectiveness of different machine learning models in detecting signature forgery using the CEDAR Signature paired dataset. The dataset will be split into 70% for training and 30% for validation. A custom test set, consisting of 11 individuals' signatures (20% of the dataset), will be used for final testing.
 
