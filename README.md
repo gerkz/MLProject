@@ -9,10 +9,10 @@ Follow these steps to set up the environment for running the project:
 
 ### 1.1 Clone the Repository
 Start by cloning the repository to your local machine:
-git clone <repository-url>
+git clone (repository-url)
 
 ### 1.2 Navigate to the Project Directory
-cd <project-directory>
+cd (project-directory)
 
 ### 1.3 Create a Virtual Environment
 python3 -m venv venv (mac)
