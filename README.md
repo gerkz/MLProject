@@ -9,7 +9,7 @@ Follow these steps to set up the environment for running the project:
 
 ### 1.1 Clone the Repository
 Start by cloning the repository to your local machine:
-git clone <https://github.com/gerkz/MLProject.git>
+git clone <repository-url>
 
 ### 1.2 Navigate to the Project Directory
 cd <project-directory>
