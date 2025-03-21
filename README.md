@@ -24,6 +24,9 @@ python -m venv venv (win)
 ### 1.4 Install Dependencies
 pip install -r requirements.txt
 
+### 1.5 Download Training/Testing resources
+Please download the resources from <https://sitsingaporetechedu-my.sharepoint.com/:u:/g/personal/2303024_sit_singaporetech_edu_sg/EY1o8quszrdHntN46_7wm0kBjaiVgCtAKFXJBDrwDCkaTw?e=auzhlo> and placed them in the respective folders to facilitate the training and testing of the models.
+
 # 2. Data Preprocessing for Signature Recognition
 
 ## Overview of Data Preprocessing
